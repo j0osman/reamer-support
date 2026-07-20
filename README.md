@@ -21,7 +21,7 @@ A local-first, deterministic backtesting engine for systematic OHLCV traders —
 
 - **Open an issue here** — a wrong fill, a result that doesn't match the spec, a docs page that's misleading, a crash, anything. Include what you ran and what you expected vs. what happened; the more specific, the faster it gets fixed.
 - **Email:** support@reamerlabs.com
-- **DM on X:** whatever's fastest for you.
+- **DM on X:** @j0osman
 
 ## What happens after you report something
 
