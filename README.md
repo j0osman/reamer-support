@@ -38,4 +38,3 @@ Bugs happen. What matters is whether they get found and fixed, or found and buri
 
 - Check the [docs](https://reamerlabs.com/docs) and [execution spec](https://reamerlabs.com/spec) first — a lot of "is this a bug" questions are answered by the spec's explicit tie-breaking and fill-price rules.
 - Include which product (Research or Server), the version, your OS, and the language of the reference example you're using, if relevant.
-- If it's a Research result you think is wrong, the most useful thing you can attach is the `.reamer` file — it's self-contained (config, seed, every fill) and lets me reproduce your exact run instead of guessing.
