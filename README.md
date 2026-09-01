@@ -30,7 +30,7 @@ Evaluation kits and licensing are institutional, contact-based — no self-serve
 
 ## What happens after you report something
 
-I read every one of these myself — no ticket queue, no support team standing between you and the person who wrote the execution engine. If it's real, I fix it, and I say so here (or wherever you reported it) once it's shipped: what was wrong, what changed, and that it's safe to retest. If it's not a bug, I'll say that too, and why.
+I read every one of these myself — no ticket queue, no support team standing between you and the person who wrote both products. If it's real, I fix it, and I say so here (or wherever you reported it) once it's shipped: what was wrong, what changed, and that it's safe to retest. If it's not a bug, I'll say that too, and why.
 
 Bugs happen. What matters is whether they get found and fixed, or found and buried. This repo is the record of the first one.
 
